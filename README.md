@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sagnikd007
-- 👀 I’m interested in Machine learning and AI,coding,game and web dev.
+- 👀 I’m interested in Machine learning and AI,projects,coding,game and web dev.
 - 🌱 I’m currently studying B-Tech in Computer Science and Engineering 4th year
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
