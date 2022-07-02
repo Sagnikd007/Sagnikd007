@@ -2,7 +2,8 @@
 - 👀 I’m interested in Machine learning and AI,coding,game and web dev.
 - 🌱 I’m currently studying B-Tech in Computer Science and Engineering 4th year
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me 
+email-dsagnik332@gmail.com
 
 <!---
 Sagnikd007/Sagnikd007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
