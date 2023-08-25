@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sagnikd007
-- 👀 I’m interested in Ml,AI,projects,coding,game and web dev.
-- 🌱 I’m currently studying B-Tech in Computer Science and Engineering 4th year
+- 👀 I’m interested in Ml,AI,projects,coding,game and web development.
+- 🌱 I have completed my B-Tech in Computer Science and Engineering 4th year
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 email-dsagnik332@gmail.com
